@@ -1,7 +1,7 @@
 
 # Unit 3 Java Programming Project
 
-This project is designed for a Java programming course, focusing on Unit 3 concepts such as conditional statements, Boolean expressions, and logical operators. The project includes a set of methods that students need to implement, along with unit tests to verify their functionality.
+This project is designed for Mr. Hare's APCS-A, focusing on Unit 3 concepts such as conditional statements, Boolean expressions, and logical operators. The project includes a set of methods that students need to implement, along with unit tests to verify their functionality.
 
 ## Project Structure
 
@@ -16,30 +16,19 @@ This project is designed for a Java programming course, focusing on Unit 3 conce
 
 ## Getting Started
 
+### Accept the Project
+
+Use link found in Google Classroom to accept in GitHub Classroom
+
 ### Clone the Repository
 
-Clone this repository to your local machine:
+Clone this repository to your local machine using GitHub Desktop.
 
-```bash
-git clone https://github.com/yourusername/unit3project.git
-cd unit3project
-```
-
-### Build the Project
-
-Use Maven to compile the project:
-
-```bash
-mvn clean compile
-```
 
 ### Run Tests
 
-Run the JUnit tests to verify your implementations:
+Run the JUnit tests to verify your implementations
 
-```bash
-mvn test
-```
 
 ## Method Descriptions
 
@@ -64,10 +53,7 @@ Students need to implement the following methods in `Unit3.java`:
 
 Feel free to submit issues or pull requests if you find bugs or have suggestions for improvement.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions, please contact [Your Name](mailto:your.email@example.com).
+For any questions, please contact [Mr. Hare](mailto:kevin.hare@sduhsd.net).
